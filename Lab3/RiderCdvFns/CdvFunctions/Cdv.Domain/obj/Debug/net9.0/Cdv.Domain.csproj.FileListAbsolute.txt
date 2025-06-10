@@ -1,0 +1,14 @@
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/bin/Debug/net9.0/Cdv.Domain.deps.json
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/bin/Debug/net9.0/Cdv.Domain.runtimeconfig.json
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/bin/Debug/net9.0/Cdv.Domain.dll
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/bin/Debug/net9.0/Cdv.Domain.pdb
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/Cdv.Domain.csproj.AssemblyReference.cache
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/Cdv.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/Cdv.Domain.AssemblyInfoInputs.cache
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/Cdv.Domain.AssemblyInfo.cs
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/Cdv.Domain.csproj.CoreCompileInputs.cache
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/Cdv.Domain.dll
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/refint/Cdv.Domain.dll
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/Cdv.Domain.pdb
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/Cdv.Domain.genruntimeconfig.cache
+/Users/zelek/Desktop/RiderCdvFns/CdvFunctions/Cdv.Domain/obj/Debug/net9.0/ref/Cdv.Domain.dll
